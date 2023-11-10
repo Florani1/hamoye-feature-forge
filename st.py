@@ -2,8 +2,10 @@ import pickle
 import streamlit as st
 import numpy as np
 import pandas as pd
+import sklearn
+import category_encoders
 from sklearn.pipeline import make_pipeline
-from sklearn.preprocessing import OneHotEncoder
+from category_encoders import OneHotEncoder
 import plotly.graph_objects as go
 
 # Load the trained model
@@ -85,8 +87,6 @@ input_data = {
     'Access to improved water (% of population)': [water],
     'Access to improved sanitation (% of population)': [sanitation]
 }
-
-
 # Convert the dictionary to a pandas DataFrame
 input_df = pd.DataFrame(input_data)
 
