@@ -1,1 +1,2 @@
 # hamoye-feature-forge
+This project is a group project with a collaborative effort involving 14 teams, each with specializations in Data Science, DevOps, and Data Storytelling. The central theme of this initiative is Educational Infrastructure, with a noble goal to enhance educational facilities and resources. This multidisciplinary approach aims to leverage the unique skills of each team to create innovative solutions that will bolster education and nurture future success. It's a commendable project that could have a significant impact on educational outcomes.
